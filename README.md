@@ -1,0 +1,5 @@
+# HTMLandCSS--QQlogo
+使用纯html和css实现QQ企鹅logo，熟练应用css3新属性-圆角属性来实现不同的形状
+特别是border-top-left-radius等一个角的圆角属性的应用，设置一个边的边框并对该边的一个角进行垂直和水平方向的圆角属性的添加可以得到scarf
+上的shadow
+
